@@ -29,7 +29,7 @@ public class Number_1 {
 		@SuppressWarnings("resource")
 		Scanner sc = new Scanner(System.in);
 
-		System.out.println("������� ������: ");
+		System.out.println("Введите строку: ");
 
 		return sc.nextLine();
 	}

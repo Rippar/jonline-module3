@@ -15,7 +15,7 @@ public class Number_5 {
 
 		for (int i = 0; i < ch.length; i++) {
 
-			if (ch[i] == 'a' || ch[i] == 'а' || ch[i] == 'A' || ch[i] == '�') {
+			if (ch[i] == 'a' || ch[i] == 'а' || ch[i] == 'A' || ch[i] == 'А') {
 
 				count++;
 			}
